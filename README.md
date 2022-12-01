@@ -54,4 +54,4 @@ Feel free to follow along with a star/watch ❤️
  - [ ] Day 23
  - [ ] Day 24
  - [ ] Day 25
-<details>
+</details>
