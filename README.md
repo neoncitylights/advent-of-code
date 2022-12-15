@@ -15,7 +15,7 @@ Feel free to follow along with a star/watch ❤️
 <summary><h3>Week 1</h3></summary>
 
  - [x] Day 1 [`days/day1`](./days/day1)
- - [ ] Day 2
+ - [x] Day 2 [`days/day2`](./days/day2)
  - [ ] Day 3
  - [ ] Day 4
  - [ ] Day 5
